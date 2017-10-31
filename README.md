@@ -16,10 +16,13 @@ $ ionic start miApp tabs
 Existen varios templates con los cuales uno puede crear la aplicación:
 
 - `$ ionic start miApp blank`
+
 ![GitHub Logo](images/blank.png)
 - `$ ionic start miApp tabs`
+
 ![GitHub Logo](images/tabs.png)
 - `$ ionic start miApp sidemenu`
+
 ![GitHub Logo](images/sidemenu.png)
 
 
